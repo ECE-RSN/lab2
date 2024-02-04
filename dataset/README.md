@@ -33,5 +33,5 @@
 
 To emulate RTK GPS sensor data from these datasets, use the sensor emulator. Run the emulator with the `--file` argument followed by the path to the dataset you wish to emulate. For convenience, you may also copy the `.txt` files into your `sensor_emulator` folder and run the emulator as usual. Remember to specify the dataset file you intend to emulate.
 
-In order to stream the dataset only once (rather than the loop that is default, please see the options available in the sensor emulator update that was pushed on 3 February
+In order to stream the dataset only once (rather than the loop that is default), please see the options available in the sensor emulator update that was pushed on 3 February
 
